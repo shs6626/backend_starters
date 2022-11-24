@@ -52,94 +52,94 @@ html 확장자 파일 →c:/sba/workspace./html(프로젝트이름)/src/main/web
 1. Chrome 설치
 2. java 17 설치 (exe)
 
-<img width="567" alt="Untitled 1" src="https://user-images.githubusercontent.com/73987960/203691910-d4a57dba-59dc-4a7c-bbb9-e7a1ea230753.png">
+<img width="894" alt="Untitled" src="https://user-images.githubusercontent.com/73987960/203698872-63877b86-3c8e-4be0-b50c-ec6ffa3b0734.png">
 
 
 1. 한 곳에다 몰아주기 위해서 폴더를 만들어준다
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%201.png)
+<img width="567" alt="Untitled 1" src="https://user-images.githubusercontent.com/73987960/203698879-557da54d-b7a3-4c5f-bb1c-c728e70c00e0.png">
 
 다음과 같이 잘 들어있는 것을 확인할 수 있다
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%202.png)
+<img width="728" alt="Untitled 2" src="https://user-images.githubusercontent.com/73987960/203698880-c9571b0e-11e8-4aa9-9d63-e50943ad85a1.png">
 
 java -version
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%203.png)
+<img width="485" alt="Untitled 3" src="https://user-images.githubusercontent.com/73987960/203698881-d7ab4ba1-cdb6-4669-99c3-767974ccb12a.png">
 
 tomcat 9 설치
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%204.png)
+<img width="946" alt="Untitled 4" src="https://user-images.githubusercontent.com/73987960/203698883-c4b95184-c6fd-4a55-a7dd-28a2c2e00fae.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%205.png)
+<img width="373" alt="Untitled 5" src="https://user-images.githubusercontent.com/73987960/203698888-68c362dc-b59e-467f-87a6-08a41b605526.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%206.png)
+<img width="369" alt="Untitled 6" src="https://user-images.githubusercontent.com/73987960/203698891-d2e995f4-1419-4749-879c-624ff5fb5cd2.png">
 
 tomcat9 폴더를 만들어준다
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%207.png)
+<img width="372" alt="Untitled 7" src="https://user-images.githubusercontent.com/73987960/203698893-d260748a-92f1-46e2-b3a8-c56456af4053.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%208.png)
+<img width="242" alt="Untitled 8" src="https://user-images.githubusercontent.com/73987960/203698895-fa178bed-7362-41da-a77f-28acc946da81.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%209.png)
+<img width="305" alt="Untitled 9" src="https://user-images.githubusercontent.com/73987960/203698897-a20e0fc2-373d-420b-8993-ad7cdfc6e9f7.png">
 
 [http://127.0.0.1:8080/](http://127.0.0.1:8080/) → tomcat이 잘 실행되고 있음을 확인 할 수 있다
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2010.png)
+<img width="956" alt="Untitled 10" src="https://user-images.githubusercontent.com/73987960/203698899-16fd8d8b-5b5d-4a80-bc88-8b5d767c8a58.png">
 
 ipconfg 
 
 (drag 엔터 누르면 복사가 된다)
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2011.png)
+<img width="590" alt="Untitled 11" src="https://user-images.githubusercontent.com/73987960/203698903-e60de207-5e9f-4f02-b9c8-a4144a5be39a.png">
 
 [http://176.16.1.33:8080/](http://176.16.1.33:8080/)
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2012.png)
+<img width="947" alt="Untitled 12" src="https://user-images.githubusercontent.com/73987960/203698905-3b94d148-6533-41ea-8873-f37677c2cc4d.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2013.png)
+<img width="839" alt="Untitled 13" src="https://user-images.githubusercontent.com/73987960/203698908-5ccea957-6bf2-4177-83ed-3c4ec98864f8.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2014.png)
+<img width="832" alt="Untitled 14" src="https://user-images.githubusercontent.com/73987960/203698910-d496ca18-5e3d-4d78-a6f7-1637e71c61b7.png">
 
 친구 컴퓨터에 잘들어가지는 것을 확인할 수 있다
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2015.png)
+<img width="952" alt="Untitled 15" src="https://user-images.githubusercontent.com/73987960/203698911-e6e10fcd-9689-4aaf-b0cf-e279a97671c5.png">
 
 eclipse 설치
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2016.png)
+<img width="357" alt="Untitled 16" src="https://user-images.githubusercontent.com/73987960/203698915-812ea168-66bb-49e3-baa0-bdc55700906b.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2017.png)
+<img width="656" alt="Untitled 17" src="https://user-images.githubusercontent.com/73987960/203698917-17632be9-426e-4353-be9f-bb34b563cc71.png">
 
 sba 밑에 worksapce를 만든다 (모든 파일이 여기에 모인다)
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2018.png)
+<img width="420" alt="Untitled 18" src="https://user-images.githubusercontent.com/73987960/203698918-051e8ba5-77eb-482c-9866-5def307c5a34.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2019.png)
+<img width="960" alt="Untitled 19" src="https://user-images.githubusercontent.com/73987960/203698920-33d21507-e37e-4995-9208-701c9e39b5ba.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2020.png)
+<img width="830" alt="Untitled 20" src="https://user-images.githubusercontent.com/73987960/203698922-2d5c2319-d9f7-4a6c-89a2-2b860100453d.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2021.png)
+<img width="340" alt="Untitled 21" src="https://user-images.githubusercontent.com/73987960/203698924-7d20a83c-b397-4401-8bf4-055f00de8457.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2022.png)
+<img width="959" alt="Untitled 22" src="https://user-images.githubusercontent.com/73987960/203698927-49ed0499-1e80-4d96-a526-6910868c3d60.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2023.png)
+<img width="364" alt="Untitled 23" src="https://user-images.githubusercontent.com/73987960/203698928-b86d85b3-e2f7-4282-b305-1721455c2ccf.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2024.png)
+<img width="383" alt="Untitled 24" src="https://user-images.githubusercontent.com/73987960/203698930-e11eca2b-b78d-4ae5-96f7-37d1ecfbe887.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2025.png)
+<img width="960" alt="Untitled 25" src="https://user-images.githubusercontent.com/73987960/203698933-c7a8b94d-b47c-46e0-856c-30c9612d30ba.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2026.png)
+<img width="956" alt="Untitled 26" src="https://user-images.githubusercontent.com/73987960/203698935-3fd1a713-f925-4570-93ce-1e2da478d49c.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2027.png)
+<img width="932" alt="Untitled 27" src="https://user-images.githubusercontent.com/73987960/203698937-fa5b41c0-85c5-40f9-9b2d-88f30f0a53ad.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2028.png)
+<img width="306" alt="Untitled 28" src="https://user-images.githubusercontent.com/73987960/203698939-c5414b44-4a5c-4aee-83be-a2a2c651ae28.png">
 
 숨겨진 아이콘에 가서 stop을 눌러준다
 
 ( eclipse에서만 사용하면 되기 때문에)
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2029.png)
+<img width="638" alt="Untitled 29" src="https://user-images.githubusercontent.com/73987960/203698940-f741b11f-c268-4edd-b3df-97d68e7c950e.png">
 
 ```html
 <!DOCTYPE html>
@@ -168,17 +168,17 @@ sba 밑에 worksapce를 만든다 (모든 파일이 여기에 모인다)
 
 start stop을 할 수 있다
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2030.png)
+<img width="718" alt="Untitled 30" src="https://user-images.githubusercontent.com/73987960/203698944-da2f8ee3-6fc3-4277-9d11-489fabda4dde.png">
 
 encoding **UTF-8**로 바꿔준다
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2031.png)
+<img width="896" alt="Untitled 31" src="https://user-images.githubusercontent.com/73987960/203698946-da5b9359-c52a-42e6-adf0-5b406d3529e6.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2032.png)
+<img width="892" alt="Untitled 32" src="https://user-images.githubusercontent.com/73987960/203698947-7fd24513-e244-44c3-a222-8ad85aad61c7.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2033.png)
+<img width="894" alt="Untitled 33" src="https://user-images.githubusercontent.com/73987960/203698948-d5a3760c-788d-45db-9770-c96e78b6f8c6.png">
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled%2034.png)
+<img width="957" alt="Untitled 34" src="https://user-images.githubusercontent.com/73987960/203698954-0334ca96-1266-48a6-a413-2284dda00b40.png">
 
 ---
 
