@@ -52,7 +52,8 @@ html 확장자 파일 →c:/sba/workspace./html(프로젝트이름)/src/main/web
 1. Chrome 설치
 2. java 17 설치 (exe)
 
-![Untitled](%5BD-1%5D%2022%2011%2023%2011d54ed6f50f49eabd35455356800b7e/Untitled.png)
+<img width="567" alt="Untitled 1" src="https://user-images.githubusercontent.com/73987960/203691910-d4a57dba-59dc-4a7c-bbb9-e7a1ea230753.png">
+
 
 1. 한 곳에다 몰아주기 위해서 폴더를 만들어준다
 
